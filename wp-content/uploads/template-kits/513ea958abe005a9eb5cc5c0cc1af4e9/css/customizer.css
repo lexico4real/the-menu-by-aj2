@@ -1,0 +1,11 @@
+/* rotates text 90deg */
+.envato-kit-181-rotate{
+	transform: rotate(-90deg);
+	margin-top: 100px;
+	margin-left: 4em;
+}
+/* Offsets the carousel when set to 6*/
+.envato-kit-181-carousel .slick-list .slick-slide:first-child,
+.envato-kit-181-carousel .slick-list .slick-slide:last-child{
+	margin-right: -220px;
+}
